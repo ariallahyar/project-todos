@@ -1,13 +1,17 @@
 # Project Todos
 
-Replace this readme with your own information about your project.
+The purpose of this project was to continue working with Redux by building a to-do app. The minimum requirements are an app where a user can:
+- List all todo tasks, completed or incomplete
+- Mark an uncompleted task as complete, and change it back to incomplete
+- Add tasks
+- Remove taks
+- See a count of completed tasks compared to total number of tasks
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
-
-## The problem
-
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Stretch goals reached:
+- Included a timestamp in the correct local format
+- Using Styled Components instead of vanilla CSS.
 
 ## View it live
 
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+https://gsd-tool.netlify.app/
+
